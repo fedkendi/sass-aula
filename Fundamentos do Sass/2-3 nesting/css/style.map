@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"$cor-primaria: blue;\r\n$font-primaria: monospace;\r\n$gutter: 20px;\r\n\r\nsection {\r\n    max-width: 600px;\r\n    margin: 0 auto;\r\n}\r\n\r\nh1 {\r\n    color: $cor-primaria;\r\n    font-family: $font-primaria;\r\n    margin-bottom: $gutter;\r\n}\r\n\r\np {\r\n    font-size: 1.2em;\r\n    line-height: 1.4;\r\n    max-width: 400px;\r\n}\r\n\r\na {\r\n    display: block;\r\n    max-width: 120px;\r\n    padding: 10px;\r\n    border-radius: 4px;\r\n    text-align: center;\r\n    background: $cor-primaria;\r\n    color: white;\r\n    text-decoration: none;\r\n    text-transform: uppercase;\r\n    font-family: monospace;\r\n}"
+	],
+	"names": [],
+	"mappings": ";AAIA,AAAA,OAAO,CAAC;EACJ,SAAS,EAAE,KAAK;EAChB,MAAM,EAAE,MAAM;CACjB;;;AAED,AAAA,EAAE,CAAC;EACC,KAAK,EAVM,IAAI;EAWf,WAAW,EAVC,SAAS;EAWrB,aAAa,EAVR,IAAI;CAWZ;;;AAED,AAAA,CAAC,CAAC;EACE,SAAS,EAAE,KAAK;EAChB,WAAW,EAAE,GAAG;EAChB,SAAS,EAAE,KAAK;CACnB;;;AAED,AAAA,CAAC,CAAC;EACE,OAAO,EAAE,KAAK;EACd,SAAS,EAAE,KAAK;EAChB,OAAO,EAAE,IAAI;EACb,aAAa,EAAE,GAAG;EAClB,UAAU,EAAE,MAAM;EAClB,UAAU,EA3BC,IAAI;EA4Bf,KAAK,EAAE,KAAK;EACZ,eAAe,EAAE,IAAI;EACrB,cAAc,EAAE,SAAS;EACzB,WAAW,EAAE,SAAS;CACzB"
+}
